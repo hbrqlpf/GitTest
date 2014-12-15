@@ -3,3 +3,4 @@ http://sigar.hyperic.com/
 new line
 Text modification in dev\n
 Modification in feature1
+Modification 2 in feature1
