@@ -4,3 +4,4 @@ new line
 Text modification in dev
 Modification in master
 Modification in feature1
+Modification 2 in master
