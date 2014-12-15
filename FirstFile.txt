@@ -5,3 +5,4 @@ Text modification in dev
 Modification in master
 Modification in feature1
 Modification 2 in master
+Modification 2 in feature1
